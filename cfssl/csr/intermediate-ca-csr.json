@@ -1,0 +1,21 @@
+{
+  "CN": "Kandy Level 1 CA",
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C": "kandy.io",
+      "ST": "California",
+      "L": "San Jose",
+      "O": "Kandy",
+      "OU": "Kandy of Genband"
+    }
+  ],
+  "ca": {
+    "expiry": "42720h"
+  },
+  "hosts": ["kandy.io"]
+}
+

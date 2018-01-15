@@ -1,0 +1,20 @@
+{
+  "CN": "kandy.io",
+  "key": {
+    "algo": "rsa",
+    "size": 4096
+  },
+  "names": [
+    {
+      "C": "US",
+      "ST": "California",
+      "L": "San Jose",
+      "O": "Kandy",
+      "OU": "Kandy of Genband"
+    }
+  ],
+  "ca": {
+    "expiry": "262800h"
+  }
+}
+
