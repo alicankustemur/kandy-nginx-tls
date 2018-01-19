@@ -12,5 +12,5 @@
       "OU": "Harbor of Kandy"
     }
   ],
-  "hosts": ["harbor.kandy.io","172.19.44.10"]
+  "hosts": ["harbor.kandy.io"]
 }
